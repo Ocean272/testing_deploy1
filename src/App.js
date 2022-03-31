@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import config from "./config/index";
 
 function App() {
   return (
